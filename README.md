@@ -1,5 +1,12 @@
 # Hi 👋 My name is Anas
 
+<img src="https://raw.githubusercontent.com/sagar-viradiya/sagar-viradiya/master/resources/banner.png" alt="Hello world">
+
+<p align="center"> 
+  Visitor count<br>
+  <img src="https://profile-counter.glitch.me/sagar-viradiya/count.svg" />
+</p>
+
 ## Engineer Student  
 
 I'm a third-year IoT system and Information Engineering student interested in being a Back-End Developer and Full-Stack Developer. I'm eager to learn new things that challenge myself to improve and grow every single day.
